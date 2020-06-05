@@ -1,0 +1,4 @@
+baseURL = "http://benjaminmaccini.com/"
+languageCode = "en-us"
+title = "Benjamin Maccini"
+theme = "crab"
