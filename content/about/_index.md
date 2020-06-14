@@ -24,6 +24,8 @@ I am Ben. I am skilled and ignorant in many things:
 ##### JRS International,    Window Cleaner    Mar 2017 - Dec 2017
 Contract work specializing in high-rise window cleaning services
 
+---
+
 #### Education
 
 ##### University of Texas at Austin
@@ -34,6 +36,8 @@ Contract work specializing in high-rise window cleaning services
 ##### Relevant Coursework/ Independent Pursuits
 Applied number theory, applied linear algebra, scientific computation in numerical analysis, elliptic curve cryptography, stochastic analysis,
 elements of statistical learning, one-shot learning
+
+---
 
 #### Skills
 
