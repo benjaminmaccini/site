@@ -146,19 +146,24 @@ uglyURLs = false
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
-    [[menu.main]]
-        url = "/posts/"
-        name = "Posts"
-        weight = 2
-        pre = "internal"
-        post = ""
-        links = ""
+    #[[menu.main]]
+        #url = "/posts/"
+        #name = "Posts"
+        #weight = 2
+        #pre = "internal"
+        #post = ""
+        #links = ""
     [[menu.main]]
         url = "/about/"
         name = "About"
-        weight = 3
+        weight = 2
         pre = "internal"
         post = ""
+    #[[menu.main]]
+        #url = "/resumé/"
+        #name = "Resumé"
+        #weight = 4
+        #pre =  "internal"
     [[menu.main]]
         weight = 7
         identifier = "lang-switcher"
@@ -240,11 +245,11 @@ uglyURLs = false
     # 3. posts     List of post’s summary
     # 4. page      Normal page/post
 
-    homeLayout = "poetry"
+    homeLayout = "posts"
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = ["TODO: Make a better home page and get rid of that damn rat"]
+    homePoetry = [""]
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -268,7 +273,7 @@ uglyURLs = false
     siteLogo = ""
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "Benjamin Maccini"
+    siteDescription = ""
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -355,7 +360,7 @@ uglyURLs = false
 
     displayListTitle = false
 
-    listDateFormat = "January 2"
+    listDateFormat = "2006-01-02"
     # ATTENTION: be sure to follow the
     #            specified format
     #            https://gohugo.io/functions/format/
@@ -365,9 +370,10 @@ uglyURLs = false
 
     # Separate the list by month?
     groupByMonth = false
+    groupByYear = false
 
     # Enable Chinese zodiac?
-    chineseZodiac = true
+    chineseZodiac = false
 
     # Translate the year? (valid for title)
     i18nYear = false
@@ -403,7 +409,7 @@ uglyURLs = false
     #       name of the folder under the
     #       site’s `content` directory.
 
-    # mainSections = ["posts"]
+    mainSections = ["posts"]
 
 
     ######################################
@@ -665,7 +671,7 @@ uglyURLs = false
     ######################################
     # Post Meta Info
 
-    enablePostMeta = false
+    enablePostMeta = true
     # Note: *global settings*
     #       `meta` in post’s Front Matter
     #       has a higher priority than here
@@ -734,7 +740,7 @@ uglyURLs = false
     ######################################
     # Headings Anchor
 
-    enableHeadingsAnchor = true
+    enableHeadingsAnchor = false
 
     # Level range of headings
     headingsOpt = "1-6"

@@ -18,10 +18,3 @@
     icon = "github"
     title = "GitHub"
     weight = 3
-
-[[socials]]
-    id = "linkedin"
-    url = "https://www.linkedin.com/in/ben-maccini-1029b71a/"
-    icon = "linkedin"
-    title = "Linked-In"
-    weight = 3
