@@ -7,10 +7,10 @@ I am Ben. I am skilled and ignorant in many things:
 
 #### Previous Experience
 
-##### [Pensa Systems](https://www.pensasystems.com/),    Software Engineer    Jun 2019 - Jun 2020
+##### [Pensa Systems](https://www.pensasystems.com/),    Algorithm Engineer    Jun 2019 - Jun 2020
 - Led design and execution of cross-team projects examples being;
     - Diagnostic tooling for runtime services utilizing the REST protocol
-    - Cloud-based microservices for image retrieval and preprocessing
+    - Cloud-based microservices for image preprocessing
 - Evaluation and QA of deep learning models
 - Development and maintenance of supporting infrastructure for various steps of the machine learning life-cycle
 - Modernization and optimization of proprietary localization algorithms
@@ -42,8 +42,8 @@ elements of statistical learning, one-shot learning
 #### Skills
 
 ##### Languages
-- Python 
-    - Packages: Flask, SQLAlchemy, numpy, scipy, tensorflow, boto3
+- Python
+    - Packages: Flask, SQLAlchemy, numpy, scipy, opencv, pandas, tensorflow, boto3
 - Go
     - Packages: Viper, Hugo (static site generator), gin, go-centrifuge, gonum
 
@@ -53,7 +53,7 @@ elements of statistical learning, one-shot learning
 - Microservice architecture
 - Cloud native applications (AWS: Lambda, ECS, SQS, S3, Cloudwatch)
 - Test Driven Development
-- Readable Code
+- [Readable Code](https://blog.pragmaticengineer.com/readable-code/)
 - Continuous Integration (CircleCI)
 - DevOps (terraform)
 - "AGILE" (whatever the hell that means to you)
