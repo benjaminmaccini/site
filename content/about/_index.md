@@ -3,7 +3,8 @@ title: "About // Resumé"
 draft: false
 ---
 
-I am Ben. I am skilled and ignorant in many things:
+
+I am Ben. I am skilled and ignorant in many things. [PDF version of the resume](../resume.pdf).
 
 #### Previous Experience
 
