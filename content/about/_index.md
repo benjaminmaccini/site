@@ -57,7 +57,7 @@ elements of statistical learning, one-shot learning
 - [Readable Code](https://blog.pragmaticengineer.com/readable-code/)
 - Continuous Integration (CircleCI)
 - DevOps (terraform)
-- "AGILE" (whatever the hell that means to you)
+- "AGILE" variants
 - Git
 - Unix development
 - Team coordination tools (Google Services, Kanban, Slack)
