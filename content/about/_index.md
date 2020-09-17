@@ -3,8 +3,9 @@ title: "About // Resumé"
 draft: false
 ---
 
-
-I am Ben. I am skilled and ignorant in many things. [PDF version of the resume](../resume.pdf).
+I am Ben. I am skilled in some things, not quite so much in other things.
+- [My identity](https://keybase.io/benjaminmaccini)
+- [PDF version of the resume](../resume.pdf).
 
 #### Previous Experience
 

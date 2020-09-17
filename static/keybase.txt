@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/benjaminmaccini
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://benjaminmaccini.info
+  * I am benjaminmaccini (https://keybase.io/benjaminmaccini) on keybase.
+  * I have a public key with fingerprint C53E 092D 5B9E E8D3 8313  64C3 02FF 178D 9D17 1380
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d1951bcdbd3e1acd0f3795a73e5e908d456e3b6b7e4ecdc43440f9afd1fd526c0a",
+      "fingerprint": "c53e092d5b9ee8d3831364c302ff178d9d171380",
+      "host": "keybase.io",
+      "key_id": "02ff178d9d171380",
+      "kid": "0101d1951bcdbd3e1acd0f3795a73e5e908d456e3b6b7e4ecdc43440f9afd1fd526c0a",
+      "uid": "1ff6e45bcd188bc37c671c2b17c89e19",
+      "username": "benjaminmaccini"
+    },
+    "service": {
+      "hostname": "benjaminmaccini.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1600313491,
+  "expire_in": 157680000,
+  "prev": "0c543a40d688e29954b478a12428e33d47a3368eafd7022b450eee2872c59d66",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUn9MVWUYviAwfhgyAaExIg8qSKjnO7/PJSESbky6rTuXCGjXc77zXTgC517v
+PSAMuFnEgk2MIhqIGo1FUCsdmCYOKhAhMptCiA6SnMllzmAWJI2ycyz/qj/7/vn2
+vd/zPO/zPnvrH1th8PfyfhBRdywi9KDXN7OiwSpOtJRjol0qw4zlWAF6eKFCCblU
+a4EsYUYMBziQAE8DEUqiRCIgQAm3kSxPCyyJaMTjnETRDCJFRmQRhaAEKZKicBsv
+2CRgk2iCgbiAJWI2WclDTodTVlRNFtIkwnlCokUeIU4iORKQDAVJnLDZAMtJvARY
+QHK4Rsy3u3SGZk4UXGizbNdq2sP6t71/4/9n38UP5YDNxiCK1sQAx4mQZCHDAkiI
+gIUcjwCvA13IqQhFSEOLSNknFMlKkQChrMhYZSKmfZbIEOn56gP9N3CzrNj08RxO
+u2qH9kINka+qDpdRV1DLHDrlABKt/4hZRVmRtFg1RglyumS7ghmBhoSqrKsDBse1
+WCkeJGKo1CE7kVXWETTLcLh2EvO0RqhEDwvSFClQuMRwHCJ4nqZEiuUEQFAEh0hS
+oliBJBkOadGwOEGIFI0jhAiOJSDNSwyD6fPtV+yYkdV8CnmapEvOUwS12ImwysBa
+b9LH4OVviF6z1mcwOWBT7nHPaFWoNPBoFX299T00BAaEPKo8eXvVA4f6ddUds2Vj
+30+rX2h0RcHolTX5r3YOjiWesfTW3zv/1t329vzOpgRP/wS+vcLs/UNy+fUpovXK
+l/NNu0KjfwmqHu44dbK731nwo/FS/DlzaVbIcF9w4Xt7gRuM42sWzi73J1nco8+3
+ZDe6QfTuqz17l5pj0l+UY65N+uUs8ovrx+CfjpS5C2DdTJpZDiFnwjE8Ijbsu6Mv
+nV6I7N5JGRriPq5K8BsfOdJbmTOrhPvVxgafTp0NOt/c8/7ya9MXep8dKgjjzDEm
+sOrW7nNZnomowZSkemOXJSzw/pFaj+nElvvh/ce+8k8ofjn+1u+HUeQr7o0TwY9/
+WuI7NpK5rs1U0hz12yff0z030/b7py36bB3Yajox9dFnd+IEQ3tF/KEdx4eylF1l
+BWGpQiz1jD35XRPhc2N7G7h8/dcnsOkbn1sCL7JgR8PV+Uq8p2rhWq2U2du658Nv
+PW8fLq2on5SCajdMHGhqCb1S3fqcG9z+Yrxv+dKSe0XGbM1o29G+N4pmkp5Km/35
+Xud8hzxtSqpr3pY+39udDrcYqn0j6vI7zB/4xhxsTGq9mb1tk5DbUNywdnTn0Jtn
+hjZYGbI00mdffU1q9l3VknEyztXiuTjwztmMqtzJlTPDsdN/zBWpq/tjMdgSCg1h
+zB7GnFldGdBlygmfSxMve0+93rU+fik4ZeTpplN/AQ==
+=t7Rt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benjaminmaccini
+
+==================================================================
