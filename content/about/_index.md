@@ -9,7 +9,7 @@ I am Ben. I am skilled in some things, not quite so much in other things.
 
 #### Previous Experience
 
-##### [Pensa Systems](https://www.pensasystems.com/),    Algorithm Engineer    Jun 2019 - Jun 2020
+##### [Pensa Systems](https://www.pensasystems.com/),    Software Engineer    Jun 2019 - Jun 2020
 - Led design and execution of cross-team projects examples being;
     - Diagnostic tooling for runtime services utilizing the REST protocol
     - Cloud-based microservices for image preprocessing
