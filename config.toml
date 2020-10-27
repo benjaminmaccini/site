@@ -245,11 +245,11 @@ uglyURLs = false
     # 3. posts     List of post’s summary
     # 4. page      Normal page/post
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = [""]
+    homePoetry = ["Blog to come... in the meantime:", "https://donate.wikimedia.org/wiki/Ways_to_Give"]
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -443,7 +443,7 @@ uglyURLs = false
     ######################################
     # Dark Mode
 
-    enableDarkMode = true
+    enableDarkMode = false
 
     defaultTheme = "dark"
     # Note: light or dark

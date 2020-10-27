@@ -1,65 +1,15 @@
 ---
-title: "About // Resumé"
+title: "About"
 draft: false
 ---
 
-I am Ben. I am skilled in some things, not quite so much in other things.
-- [My identity](https://keybase.io/benjaminmaccini)
-- [PDF version of the resume](../resume.pdf).
+![picture of me](../self.jpg)
 
-#### Previous Experience
-
-##### [Pensa Systems](https://www.pensasystems.com/),    Software Engineer    Jun 2019 - Jun 2020
-- Led design and execution of cross-team projects examples being;
-    - Diagnostic tooling for runtime services utilizing the REST protocol
-    - Cloud-based microservices for image preprocessing
-- Evaluation and QA of deep learning models
-- Development and maintenance of supporting infrastructure for various steps of the machine learning life-cycle
-- Modernization and optimization of proprietary localization algorithms
-
-##### [Pensa Systems](https://www.pensasystems.com/),    Intern    Feb 2018 - Jun 2019
-- Led independent contractor coordination, internationally, namely for the purpose of data collection and labelling
-- Engaged in field operations for experimental trials
-- Responsible for evaluating model accuracy measures
-- Generally helpful
-
-##### JRS International,    Window Cleaner    Mar 2017 - Dec 2017
-Contract work specializing in high-rise window cleaning services
-
----
-
-#### Education
-
-##### University of Texas at Austin
-- B.S. in Mathematics (College of Natural Sciences)
-- Minor in Business (McCombs School of Business)
-- Elements of Computer Science Certificate (College of Natrual Sciences)
-
-##### Relevant Coursework/ Independent Pursuits
-Applied number theory, applied linear algebra, scientific computation in numerical analysis, elliptic curve cryptography, stochastic analysis,
-elements of statistical learning, one-shot learning
-
----
-
-#### Skills
-
-##### Languages
-- Python
-    - Packages: Flask, SQLAlchemy, numpy, scipy, opencv, pandas, tensorflow, boto3
-- Go
-    - Packages: Viper, Hugo (static site generator), gin, go-centrifuge, gonum
-
-##### General Software Methodologies/Patterns/Tools
-- REST
-- Asynchronous programming
-- Microservice architecture
-- Cloud native applications (AWS: Lambda, ECS, SQS, S3, Cloudwatch)
-- Test Driven Development
-- [Readable Code](https://blog.pragmaticengineer.com/readable-code/)
-- Continuous Integration (CircleCI)
-- DevOps (terraform)
-- "AGILE" variants
-- Git
-- Unix development
-- Team coordination tools (Google Services, Kanban, Slack)
+Howdy, I'm Ben. I am an Austin-based developer with experience in early-stage product development, algorithms, 
+and machine learning. I thrive in a fast-paced work environment, working with small, dynamic teams on complex technical problems. 
+Outside of work, I enjoy rock climbing, playing guitar and road trips. I am looking for new opportunities, with email being the best point of contact.
+- [Keybase](https://keybase.io/benjaminmaccini)
+- [Resumé](../resume.pdf)
+- [Github](https://github.com/benjaminmaccini)
+- benjaminmaccini AT gmail DOT com
 
