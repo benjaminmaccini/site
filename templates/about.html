@@ -1,5 +1,10 @@
 {% extends "index.html" %}
 
+{% block head%}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) | safe }}">
+{% endblock head %}
+
 {% block main %}
 {% set section = get_section(path="about/_index.md")%}
 <div class="border"></div>

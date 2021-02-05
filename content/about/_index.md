@@ -3,7 +3,7 @@ title = "About"
 template = "about.html"
 +++
 
-![picture of me](../self.jpg)
+<img class="center-img" src="../self.jpg" />
 
 Howdy, I'm Ben. I am an Austin-based developer with experience in early-stage product development, algorithms, 
 and machine learning. I thrive in a fast-paced work environment, working with small, dynamic teams on complex technical problems. 

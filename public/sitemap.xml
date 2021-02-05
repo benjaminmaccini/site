@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://benjaminmaccini.info/</loc>
+    </url>
+    <url>
+        <loc>https://benjaminmaccini.info/about/</loc>
+    </url>
+    <url>
+        <loc>https://benjaminmaccini.info/posts/</loc>
+    </url>
+    <url>
+        <loc>https://benjaminmaccini.info/posts/findings/</loc>
+        <lastmod>2020-12-30T22:43:46-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://benjaminmaccini.info/posts/intro/</loc>
+        <lastmod>2020-06-06T22:43:46-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://benjaminmaccini.info/posts/linkedin/</loc>
+        <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    </url>
+</urlset>
