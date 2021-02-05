@@ -1,8 +1,8 @@
----
-title: "Scaling Down: Brand"
-date: 2020-09-14T00:00:00-00:00
-draft: true
----
++++
+title = "Scaling Down: Brand"
+date = 2020-09-14T00:00:00-00:00
+draft = true
++++
 
 I have been recently fascinated by the idea that some things either can't, don't, shouldn't, or generally suck at scale. I plan on
 doing a full series on how the toxicity scale creeps into different topics, namely [Brand, Activism, Use Cases, Empathy]. Most of these posts

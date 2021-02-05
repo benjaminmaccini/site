@@ -1,8 +1,8 @@
----
-title: "LinkedOut"
-date: 2020-09-09T00:00:00-00:00
-draft: false
----
++++
+title = "LinkedOut"
+date = 2020-09-09T00:00:00-00:00
+draft = false
++++
 
 You know LinkedIn. Although it has a strong value proposition, I am off of the site for several reasons.
 

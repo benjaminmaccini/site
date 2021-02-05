@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+{% block main %}
+{% set section = get_section(path="about/_index.md")%}
+<div class="border"></div>
+<article itemscope itemtype="http://schema.org/BlogPosting">
+    <div itemprop="headline">
+    <div itemprop="articleBody">
+        {{ section.content | safe }}
+    </div>
+</article>
+{% endblock main %}
+

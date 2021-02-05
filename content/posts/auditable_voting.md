@@ -1,8 +1,8 @@
----
-title: "End-to-end Auditable Voting"
-date: 2020-10-21T00:00:00-00:00
-draft: true
----
++++
+title = "End-to-end Auditable Voting"
+date = 2020-10-21T00:00:00-00:00
+draft = true
++++
 
 ![scary_stuff](https://en.wikipedia.org/wiki/Election_audit#/media/File:State_audits.png)
 
